@@ -6,8 +6,8 @@ Authors: Markus Himmel
 module
 
 public import Mathlib.CategoryTheory.EpiMono
-public import Mathlib.CategoryTheory.Limits.Shapes.StrongEpi
 public import Mathlib.CategoryTheory.LiftingProperties.Adjunction
+public import Mathlib.CategoryTheory.Limits.Shapes.StrongEpi
 
 /-!
 # Preservation and reflection of monomorphisms and epimorphisms

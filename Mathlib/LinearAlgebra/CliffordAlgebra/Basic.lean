@@ -6,9 +6,9 @@ Authors: Eric Wieser, Utensil Song
 module
 
 public import Mathlib.Algebra.RingQuot
-public import Mathlib.LinearAlgebra.TensorAlgebra.Basic
 public import Mathlib.LinearAlgebra.QuadraticForm.Isometry
 public import Mathlib.LinearAlgebra.QuadraticForm.IsometryEquiv
+public import Mathlib.LinearAlgebra.TensorAlgebra.Basic
 
 /-!
 # Clifford Algebras

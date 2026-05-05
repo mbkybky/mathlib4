@@ -5,8 +5,8 @@ Authors: Leonardo de Moura
 -/
 module
 
-public import Mathlib.Init
 public import Batteries.Util.ExtendedBinder
+public import Mathlib.Init
 
 import Mathlib.Tactic.ToDual
 

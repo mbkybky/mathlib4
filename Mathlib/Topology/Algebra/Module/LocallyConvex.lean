@@ -5,9 +5,9 @@ Authors: Anatole Dedecker
 -/
 module
 
+public import Mathlib.Analysis.Convex.PathConnected
 public import Mathlib.Analysis.Convex.Topology
 public import Mathlib.Topology.Connected.LocPathConnected
-public import Mathlib.Analysis.Convex.PathConnected
 
 /-!
 # Locally convex topological modules

@@ -5,8 +5,8 @@ Authors: Josha Dekker
 -/
 module
 
-public import Mathlib.Probability.ProbabilityMassFunction.Basic
 public import Mathlib.MeasureTheory.Function.StronglyMeasurable.Basic
+public import Mathlib.Probability.ProbabilityMassFunction.Basic
 
 /-! # Geometric distributions over ℕ
 

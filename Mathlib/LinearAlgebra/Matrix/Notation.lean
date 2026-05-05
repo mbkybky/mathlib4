@@ -5,11 +5,11 @@ Authors: Anne Baanen, Eric Wieser
 -/
 module
 
+public import Mathlib.Algebra.BigOperators.Fin
 public import Mathlib.Algebra.Group.Fin.Tuple
 public import Mathlib.Data.Fin.VecNotation
 public import Mathlib.LinearAlgebra.Matrix.RowCol
 public import Mathlib.Tactic.FinCases
-public import Mathlib.Algebra.BigOperators.Fin
 public meta import Mathlib.LinearAlgebra.Matrix.Defs
 
 /-!

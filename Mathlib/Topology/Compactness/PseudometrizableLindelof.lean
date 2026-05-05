@@ -5,11 +5,11 @@ Authors: Josha Dekker
 -/
 module -- shake: keep-all
 
-public import Mathlib.Tactic.Linter.DeprecatedModule
 public import Mathlib.Data.Finset.Attr
 public import Mathlib.Tactic.Common
 public import Mathlib.Tactic.Continuity
 public import Mathlib.Tactic.Finiteness.Attr
+public import Mathlib.Tactic.Linter.DeprecatedModule
 public import Mathlib.Tactic.SetLike
 public import Mathlib.Util.CompileInductive
 

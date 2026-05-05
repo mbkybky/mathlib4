@@ -5,11 +5,11 @@ Authors: Heather Macbeth
 -/
 module
 
-public import Mathlib.MeasureTheory.Measure.Regular
-public import Mathlib.MeasureTheory.Function.SimpleFuncDenseLp
-public import Mathlib.Topology.UrysohnsLemma
 public import Mathlib.MeasureTheory.Function.LpSpace.ContinuousFunctions
+public import Mathlib.MeasureTheory.Function.SimpleFuncDenseLp
 public import Mathlib.MeasureTheory.Integral.Bochner.Basic
+public import Mathlib.MeasureTheory.Measure.Regular
+public import Mathlib.Topology.UrysohnsLemma
 
 /-!
 # Approximation in Lᵖ by continuous functions

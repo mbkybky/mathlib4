@@ -6,8 +6,8 @@ Authors: Johannes Hölzl, Yury Kudryashov
 module
 
 public import Mathlib.Algebra.BigOperators.WithTop
-public import Mathlib.Data.NNReal.Basic
 public import Mathlib.Data.ENNReal.Inv
+public import Mathlib.Data.NNReal.Basic
 
 /-!
 # Properties of big operators extended non-negative real numbers

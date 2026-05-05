@@ -5,10 +5,10 @@ Authors: Marc Huisinga, Thomas R. Murrills
 -/
 module
 
-public import Mathlib.Lean.Environment
-public import Lean.Server.InfoUtils
-public import Lean.Meta.TryThis
 public import Batteries.Tactic.Lint.Misc
+public import Lean.Meta.TryThis
+public import Lean.Server.InfoUtils
+public import Mathlib.Lean.Environment
 -- Import this linter explicitly to ensure that
 -- this file has a valid copyright header and module docstring.
 import Mathlib.Tactic.Linter.Header  --shake: keep

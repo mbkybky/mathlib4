@@ -8,8 +8,8 @@ module
 public meta import Lean.Elab.Tactic.Simp
 public meta import Lean.Elab.Tactic.Conv.Basic
 public meta import Lean.Elab.Tactic.Rewrite
-public import Mathlib.Init
 public import Lean.Elab.Tactic.Config
+public import Mathlib.Init
 
 /-! ## Dependent rewrite tactic -/
 

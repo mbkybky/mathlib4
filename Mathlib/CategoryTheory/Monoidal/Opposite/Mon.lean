@@ -5,8 +5,8 @@ Authors: Robin Carlier
 -/
 module
 
-public import Mathlib.CategoryTheory.Monoidal.Opposite
 public import Mathlib.CategoryTheory.Monoidal.Mon
+public import Mathlib.CategoryTheory.Monoidal.Opposite
 
 /-!
 # Monoid objects internal to monoidal opposites

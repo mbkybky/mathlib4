@@ -5,8 +5,8 @@ Authors: Johannes Hölzl, Mario Carneiro, Yury Kudryashov
 -/
 module
 
-public import Mathlib.MeasureTheory.MeasurableSpace.EventuallyMeasurable
 public import Mathlib.MeasureTheory.MeasurableSpace.Basic
+public import Mathlib.MeasureTheory.MeasurableSpace.EventuallyMeasurable
 public import Mathlib.MeasureTheory.Measure.AEDisjoint
 
 /-!

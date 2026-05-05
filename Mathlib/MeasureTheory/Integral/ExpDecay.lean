@@ -6,8 +6,8 @@ Authors: David Loeffler
 module
 
 public import Mathlib.MeasureTheory.Integral.Asymptotics
-public import Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic
 public import Mathlib.MeasureTheory.Integral.IntegralEqImproper
+public import Mathlib.MeasureTheory.Integral.IntervalIntegral.Basic
 
 /-!
 # Integrals with exponential decay at ∞

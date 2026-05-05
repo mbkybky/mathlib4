@@ -6,8 +6,8 @@ Authors: Gaëtan Serré
 
 module
 
-public import Mathlib.CategoryTheory.MarkovCategory.Basic
 public import Mathlib.CategoryTheory.CopyDiscardCategory.Widesubcategory
+public import Mathlib.CategoryTheory.MarkovCategory.Basic
 public import Mathlib.Probability.Kernel.Category.SFinKer
 
 /-!

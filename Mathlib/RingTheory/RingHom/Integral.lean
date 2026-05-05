@@ -5,8 +5,8 @@ Authors: Andrew Yang
 -/
 module
 
-public import Mathlib.RingTheory.LocalProperties.Basic
 public import Mathlib.RingTheory.Localization.Integral
+public import Mathlib.RingTheory.LocalProperties.Basic
 
 /-!
 

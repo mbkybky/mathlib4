@@ -6,8 +6,8 @@ Authors: Iván Renison, Bhavik Mehta
 module
 
 public import Mathlib.Algebra.Group.Fin.Basic
-public import Mathlib.Combinatorics.SimpleGraph.Hasse
 public import Mathlib.Algebra.Group.Pointwise.Set.Basic
+public import Mathlib.Combinatorics.SimpleGraph.Hasse
 
 /-!
 # Definition of circulant graphs

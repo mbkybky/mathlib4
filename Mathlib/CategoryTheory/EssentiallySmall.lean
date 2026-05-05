@@ -6,11 +6,11 @@ Authors: Kim Morrison
 module
 
 public import Mathlib.CategoryTheory.Category.ULift
+public import Mathlib.CategoryTheory.Comma.Arrow
 public import Mathlib.CategoryTheory.EqToHom
 public import Mathlib.CategoryTheory.Skeletal
-public import Mathlib.CategoryTheory.Comma.Arrow
-public import Mathlib.Logic.UnivLE
 public import Mathlib.Logic.Small.Basic
+public import Mathlib.Logic.UnivLE
 
 /-!
 # Essentially small categories.

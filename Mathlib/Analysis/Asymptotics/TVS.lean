@@ -5,10 +5,10 @@ Authors: Yury Kudryashov, Eric Wieser
 -/
 module
 
+public import Mathlib.Analysis.Asymptotics.Defs
 public import Mathlib.Analysis.Convex.EGauge
 public import Mathlib.Analysis.LocallyConvex.BalancedCoreHull
 public import Mathlib.Analysis.Seminorm
-public import Mathlib.Analysis.Asymptotics.Defs
 public import Mathlib.Topology.Algebra.Module.LinearMapPiProd
 import Mathlib.Tactic.Peel
 public import Mathlib.Tactic.Bound

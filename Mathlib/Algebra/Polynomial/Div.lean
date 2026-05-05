@@ -8,8 +8,8 @@ module
 public import Mathlib.Algebra.Field.IsField
 public import Mathlib.Algebra.Polynomial.Inductions
 public import Mathlib.Algebra.Polynomial.Monic
-public import Mathlib.RingTheory.Multiplicity
 public import Mathlib.Data.Nat.Lattice
+public import Mathlib.RingTheory.Multiplicity
 
 /-!
 # Division of univariate polynomials

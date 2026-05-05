@@ -5,9 +5,9 @@ Authors: Joël Riou
 -/
 module
 
-public import Mathlib.AlgebraicTopology.SimplicialObject.Split
 public import Mathlib.AlgebraicTopology.DoldKan.Degeneracies
 public import Mathlib.AlgebraicTopology.DoldKan.FunctorN
+public import Mathlib.AlgebraicTopology.SimplicialObject.Split
 
 /-!
 

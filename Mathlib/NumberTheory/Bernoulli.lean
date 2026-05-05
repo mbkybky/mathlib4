@@ -6,8 +6,8 @@ Authors: Johan Commelin, Kevin Buzzard
 module
 
 public import Mathlib.Algebra.BigOperators.Field
-public import Mathlib.RingTheory.PowerSeries.Inverse
 public import Mathlib.RingTheory.PowerSeries.Exp
+public import Mathlib.RingTheory.PowerSeries.Inverse
 
 /-!
 # Bernoulli numbers

@@ -5,9 +5,9 @@ Authors: Robert Y. Lewis, Leonardo de Moura, Mario Carneiro, Floris van Doorn
 -/
 module -- shake: keep-all
 
-public import Mathlib.Tactic.Linter.DeprecatedModule
 public import Mathlib.Tactic.Basic
 public import Mathlib.Tactic.Bound.Init
+public import Mathlib.Tactic.Linter.DeprecatedModule
 public import Mathlib.Util.CompileInductive
 
 deprecated_module

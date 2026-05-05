@@ -6,8 +6,8 @@ Authors: Johannes Hölzl, Sébastien Gouëzel, Yury Kudryashov
 module
 
 public import Mathlib.MeasureTheory.Integral.Bochner.Set
-public import Mathlib.MeasureTheory.Measure.Lebesgue.Basic
 public import Mathlib.MeasureTheory.Measure.Haar.Unique
+public import Mathlib.MeasureTheory.Measure.Lebesgue.Basic
 
 /-! # Properties of integration with respect to the Lebesgue measure -/
 

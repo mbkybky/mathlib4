@@ -7,8 +7,8 @@ module
 
 public import Mathlib.Tactic.StacksAttribute
 public import Mathlib.Topology.Compactness.Lindelof
-public import Mathlib.Topology.Separation.Hausdorff
 public import Mathlib.Topology.Connected.Clopen
+public import Mathlib.Topology.Separation.Hausdorff
 
 /-!
 # Regular, normal, T₃, T₄ and T₅ spaces

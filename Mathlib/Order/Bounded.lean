@@ -5,10 +5,10 @@ Authors: Violeta Hernández Palacios
 -/
 module
 
-public import Mathlib.Tactic.Linter.DeprecatedModule
-public import Mathlib.Order.RelClasses
-public import Mathlib.Order.Interval.Set.Basic
 public import Mathlib.Order.Bounds.Defs
+public import Mathlib.Order.Interval.Set.Basic
+public import Mathlib.Order.RelClasses
+public import Mathlib.Tactic.Linter.DeprecatedModule
 
 /-!
 # Bounded and unbounded sets

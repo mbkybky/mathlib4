@@ -6,8 +6,8 @@ Authors: Anne Baanen
 module
 
 public import Mathlib.Algebra.Algebra.Basic
-public import Mathlib.NumberTheory.ClassNumber.AdmissibleAbsoluteValue
 public import Mathlib.Data.Real.Archimedean
+public import Mathlib.NumberTheory.ClassNumber.AdmissibleAbsoluteValue
 
 /-!
 # Admissible absolute value on the integers

@@ -5,8 +5,8 @@ Authors: Ruben Van de Velde
 -/
 module
 
-public import Mathlib.Analysis.RCLike.Extend
 public import Mathlib.Analysis.Normed.Operator.Basic
+public import Mathlib.Analysis.RCLike.Extend
 
 /-!
 # Norm properties of the extension of continuous `ℝ`-linear functionals to `𝕜`-linear functionals

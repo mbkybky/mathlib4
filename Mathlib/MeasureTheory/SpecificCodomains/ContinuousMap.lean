@@ -5,9 +5,9 @@ Authors: Anatole Dedecker
 -/
 module
 
-public import Mathlib.Topology.ContinuousMap.Compact
-public import Mathlib.Topology.ContinuousMap.Algebra
 public import Mathlib.MeasureTheory.Integral.IntegrableOn
+public import Mathlib.Topology.ContinuousMap.Algebra
+public import Mathlib.Topology.ContinuousMap.Compact
 
 /-!
 # Specific results about `ContinuousMap`-valued integration

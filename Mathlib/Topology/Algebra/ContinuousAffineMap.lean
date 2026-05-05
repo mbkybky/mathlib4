@@ -6,8 +6,8 @@ Authors: Oliver Nash
 module
 
 public import Mathlib.LinearAlgebra.AffineSpace.AffineMap
-public import Mathlib.Topology.Algebra.Module.LinearMapPiProd
 public import Mathlib.Topology.Algebra.Affine
+public import Mathlib.Topology.Algebra.Module.LinearMapPiProd
 
 /-!
 # Continuous affine maps.

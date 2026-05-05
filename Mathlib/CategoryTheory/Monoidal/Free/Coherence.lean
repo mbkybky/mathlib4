@@ -5,8 +5,8 @@ Authors: Markus Himmel
 -/
 module
 
-public import Mathlib.CategoryTheory.Monoidal.Free.Basic
 public import Mathlib.CategoryTheory.Discrete.Basic
+public import Mathlib.CategoryTheory.Monoidal.Free.Basic
 
 /-!
 # The monoidal coherence theorem

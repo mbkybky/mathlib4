@@ -6,9 +6,9 @@ Authors: Louis Carlin, Mario Carneiro
 module
 
 public import Mathlib.Algebra.EuclideanDomain.Defs
-public import Mathlib.Algebra.Ring.Divisibility.Basic
 public import Mathlib.Algebra.GroupWithZero.Divisibility
 public import Mathlib.Algebra.Ring.Basic
+public import Mathlib.Algebra.Ring.Divisibility.Basic
 
 /-!
 # Lemmas about Euclidean domains

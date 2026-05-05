@@ -8,10 +8,10 @@ module
 public import Mathlib.Data.Int.Order.Basic
 public meta import Mathlib.Data.List.Monad
 public meta import Mathlib.Data.PNat.Defs
-public import Plausible.Sampleable
 public import Plausible.Arbitrary
 public import Plausible.Gen
 public import Plausible.Random
+public import Plausible.Sampleable
 public meta import Plausible.Sampleable
 
 /-!

@@ -5,8 +5,8 @@ Authors: Yury Kudryashov
 -/
 module
 
-public import Mathlib.Topology.Maps.Basic
 public import Mathlib.Topology.Baire.Lemmas
+public import Mathlib.Topology.Maps.Basic
 
 /-!
 # Open quotient maps

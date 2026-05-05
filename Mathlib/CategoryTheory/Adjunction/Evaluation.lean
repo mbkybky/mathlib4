@@ -5,8 +5,8 @@ Authors: Adam Topaz
 -/
 module
 
-public import Mathlib.CategoryTheory.Limits.Shapes.Products
 public import Mathlib.CategoryTheory.Functor.EpiMono
+public import Mathlib.CategoryTheory.Limits.Shapes.Products
 
 /-!
 

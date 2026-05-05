@@ -5,10 +5,10 @@ Authors: Ziyan Wei
 -/
 module
 
-public import Mathlib.Topology.Maps.Basic
-public import Mathlib.Topology.Homeomorph.Lemmas
-public import Mathlib.Topology.Constructions
 public import Mathlib.Data.Setoid.Basic
+public import Mathlib.Topology.Constructions
+public import Mathlib.Topology.Homeomorph.Lemmas
+public import Mathlib.Topology.Maps.Basic
 /-!
 # Bourbaki Strict Maps
 

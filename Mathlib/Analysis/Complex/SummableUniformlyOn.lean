@@ -5,8 +5,8 @@ Authors: Chris Birkbeck
 -/
 module
 
-public import Mathlib.Analysis.CStarAlgebra.Classes
 public import Mathlib.Analysis.Complex.LocallyUniformLimit
+public import Mathlib.Analysis.CStarAlgebra.Classes
 public import Mathlib.Topology.Algebra.InfiniteSum.UniformOn
 
 /-!

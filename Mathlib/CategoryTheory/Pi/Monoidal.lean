@@ -5,10 +5,10 @@ Authors: Sina Hazratpour
 -/
 module
 
-public import Mathlib.CategoryTheory.Pi.Basic
-public import Mathlib.CategoryTheory.Monoidal.Category
 public import Mathlib.CategoryTheory.Monoidal.Braided.Basic
+public import Mathlib.CategoryTheory.Monoidal.Category
 public import Mathlib.CategoryTheory.Monoidal.Closed.Basic
+public import Mathlib.CategoryTheory.Pi.Basic
 
 /-!
 # The pointwise monoidal structure on the product of families of monoidal categories

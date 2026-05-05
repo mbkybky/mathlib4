@@ -6,8 +6,8 @@ Authors: Moritz Doll, Anatole Dedecker, Sébastien Gouëzel
 module
 
 public import Mathlib.Analysis.Calculus.ContDiff.Bounds
-public import Mathlib.Analysis.SpecialFunctions.JapaneseBracket
 public import Mathlib.Analysis.InnerProductSpace.Calculus
+public import Mathlib.Analysis.SpecialFunctions.JapaneseBracket
 public import Mathlib.Tactic.MoveAdd
 
 /-! # Functions and measures of temperate growth -/

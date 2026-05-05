@@ -8,15 +8,15 @@ Authors: Kim Morrison
 module  -- shake: keep-all, shake: keep-downstream
 
 public import Aesop
-public import Qq
 public import Plausible
+public import Qq
 
 -- Import common Batteries tactics and commands
+public import Batteries.Tactic.Alias
 public import Batteries.Tactic.Basic
 public import Batteries.Tactic.Case
-public import Batteries.Tactic.HelpCmd
-public import Batteries.Tactic.Alias
 public import Batteries.Tactic.GeneralizeProofs
+public import Batteries.Tactic.HelpCmd
 
 -- Import Batteries code actions
 public import Batteries.CodeAction
@@ -39,9 +39,9 @@ public import Mathlib.Tactic.ByContra
 public import Mathlib.Tactic.CasesM
 public import Mathlib.Tactic.Check
 public import Mathlib.Tactic.Choose
-public import Mathlib.Tactic.ClearExclamation
-public import Mathlib.Tactic.ClearExcept
 public import Mathlib.Tactic.Clear_
+public import Mathlib.Tactic.ClearExcept
+public import Mathlib.Tactic.ClearExclamation
 public import Mathlib.Tactic.Coe
 public import Mathlib.Tactic.CongrExclamation
 public import Mathlib.Tactic.CongrM
@@ -54,8 +54,8 @@ public import Mathlib.Tactic.DefEqTransformations
 public import Mathlib.Tactic.DeprecateTo
 public import Mathlib.Tactic.DepRewrite
 public import Mathlib.Tactic.DSimpPercent
-public import Mathlib.Tactic.ErwQuestion
 public import Mathlib.Tactic.Eqns
+public import Mathlib.Tactic.ErwQuestion
 public import Mathlib.Tactic.ExistsI
 public import Mathlib.Tactic.ExtractGoal
 public import Mathlib.Tactic.FailIfNoProgress
@@ -81,17 +81,17 @@ public import Mathlib.Tactic.OfNat
 -- `positivity` imports `Data.Nat.Factorial.Basic`, but hopefully this can be rearranged.
 -- import Mathlib.Tactic.Positivity
 public import Mathlib.Tactic.Push
-public import Mathlib.Tactic.RSuffices
 public import Mathlib.Tactic.Recover
 public import Mathlib.Tactic.Relation.Rfl
 public import Mathlib.Tactic.Rename
 public import Mathlib.Tactic.RenameBVar
+public import Mathlib.Tactic.RSuffices
 public import Mathlib.Tactic.Says
 public import Mathlib.Tactic.ScopedNS
 public import Mathlib.Tactic.Set
 public import Mathlib.Tactic.SimpIntro
-public import Mathlib.Tactic.SimpRw
 public import Mathlib.Tactic.Simproc.ExistsAndEq
+public import Mathlib.Tactic.SimpRw
 public import Mathlib.Tactic.Simps.Basic
 public import Mathlib.Tactic.SplitIfs
 public import Mathlib.Tactic.Spread
@@ -101,8 +101,8 @@ public import Mathlib.Tactic.SuccessIfFailWithMsg
 public import Mathlib.Tactic.SudoSetOption
 public import Mathlib.Tactic.SwapVar
 public import Mathlib.Tactic.Tauto
-public import Mathlib.Tactic.ToFun
 public import Mathlib.Tactic.TermCongr
+public import Mathlib.Tactic.ToFun
 -- TFAE imports `Mathlib/Data/List/TFAE.lean` and thence `Mathlib/Data/List/Basic.lean`.
 -- import Mathlib.Tactic.TFAE
 public import Mathlib.Tactic.ToExpr

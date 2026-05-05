@@ -5,9 +5,9 @@ Authors: Andrew Yang
 -/
 module
 
+public import Mathlib.Tactic.StacksAttribute
 public import Mathlib.Topology.LocalAtTarget
 public import Mathlib.Topology.Separation.Regular
-public import Mathlib.Tactic.StacksAttribute
 
 /-!
 

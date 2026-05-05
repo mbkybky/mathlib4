@@ -5,10 +5,10 @@ Authors: Sébastien Gouëzel
 -/
 module
 
-public import Mathlib.MeasureTheory.Measure.Regular
-public import Mathlib.Topology.Semicontinuity.Basic
 public import Mathlib.MeasureTheory.Integral.Bochner.Basic
+public import Mathlib.MeasureTheory.Measure.Regular
 public import Mathlib.Topology.Instances.EReal.Lemmas
+public import Mathlib.Topology.Semicontinuity.Basic
 
 /-!
 # Vitali-Carathéodory theorem

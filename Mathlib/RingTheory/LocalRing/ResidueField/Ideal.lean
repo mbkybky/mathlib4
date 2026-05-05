@@ -6,8 +6,8 @@ Authors: Andrew Yang
 module
 
 public import Mathlib.RingTheory.EssentialFiniteness
-public import Mathlib.RingTheory.LocalRing.ResidueField.Basic
 public import Mathlib.RingTheory.Localization.FractionRing
+public import Mathlib.RingTheory.LocalRing.ResidueField.Basic
 public import Mathlib.RingTheory.SurjectiveOnStalks
 
 /-!

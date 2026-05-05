@@ -5,8 +5,8 @@ Authors: Reid Barton, Kim Morrison
 -/
 module
 
-public import Mathlib.CategoryTheory.Opposites
 public import Mathlib.CategoryTheory.Groupoid
+public import Mathlib.CategoryTheory.Opposites
 
 /-!
 # Facts about epimorphisms and monomorphisms.

@@ -5,8 +5,8 @@ Authors: Kalle Kytölä, Moritz Doll
 -/
 module
 
-public import Mathlib.Topology.Algebra.Module.LinearMap
 public import Mathlib.LinearAlgebra.BilinearMap
+public import Mathlib.Topology.Algebra.Module.LinearMap
 
 /-!
 # Weak dual topology

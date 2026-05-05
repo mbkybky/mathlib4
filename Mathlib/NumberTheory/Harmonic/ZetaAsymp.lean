@@ -5,8 +5,8 @@ Authors: David Loeffler
 -/
 module
 
-public import Mathlib.NumberTheory.LSeries.RiemannZeta
 public import Mathlib.NumberTheory.Harmonic.GammaDeriv
+public import Mathlib.NumberTheory.LSeries.RiemannZeta
 
 /-!
 # Asymptotics of `ζ s` as `s → 1`

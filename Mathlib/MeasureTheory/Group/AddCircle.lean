@@ -5,9 +5,9 @@ Authors: Oliver Nash
 -/
 module
 
-public import Mathlib.MeasureTheory.Integral.IntervalIntegral.Periodic
 public import Mathlib.Data.ZMod.QuotientGroup
 public import Mathlib.MeasureTheory.Group.AEStabilizer
+public import Mathlib.MeasureTheory.Integral.IntervalIntegral.Periodic
 
 /-!
 # Measure-theoretic results about the additive circle

@@ -5,12 +5,12 @@ Authors: Johannes Hölzl, Mario Carneiro, Yury Kudryashov
 -/
 module
 
-public import Mathlib.Order.Filter.Tendsto
 public import Mathlib.Data.Set.Accumulate
+public import Mathlib.Order.Filter.Tendsto
 public import Mathlib.Topology.Bornology.Basic
 public import Mathlib.Topology.ContinuousOn
-public import Mathlib.Topology.Ultrafilter
 public import Mathlib.Topology.Defs.Ultrafilter
+public import Mathlib.Topology.Ultrafilter
 
 /-!
 # Compact sets and compact spaces

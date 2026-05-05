@@ -5,8 +5,8 @@ Authors: Yaël Dillies, Stefano Rocca
 -/
 module
 
-public import Mathlib.MeasureTheory.Group.Defs
 public import Mathlib.MeasureTheory.Group.Action
+public import Mathlib.MeasureTheory.Group.Defs
 public import Mathlib.MeasureTheory.Measure.Typeclasses.Finite
 
 /-!

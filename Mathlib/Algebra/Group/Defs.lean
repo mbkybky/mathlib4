@@ -11,9 +11,9 @@ public import Mathlib.Algebra.Notation.Defs
 public import Mathlib.Algebra.Regular.Defs
 public import Mathlib.Data.Int.Notation
 public import Mathlib.Data.Nat.BinaryRec
+public import Mathlib.Data.Nat.Notation
 public import Mathlib.Tactic.MkIffOfInductiveProp
 public import Mathlib.Tactic.OfNat
-public import Mathlib.Data.Nat.Notation
 public import Mathlib.Tactic.Simps.Basic
 
 /-!

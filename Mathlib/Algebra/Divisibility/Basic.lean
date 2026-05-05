@@ -6,9 +6,9 @@ Neil Strickland, Aaron Anderson
 -/
 module
 
+public import Batteries.Tactic.SeqFocus
 public import Mathlib.Algebra.Group.Basic
 public import Mathlib.Tactic.Common
-public import Batteries.Tactic.SeqFocus
 
 /-!
 # Divisibility

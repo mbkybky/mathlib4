@@ -5,8 +5,8 @@ Authors: Yury G. Kudryashov
 -/
 module
 
-public import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Basic
 public import Mathlib.Data.Sign.Basic
+public import Mathlib.LinearAlgebra.Matrix.GeneralLinearGroup.Basic
 
 /-!
 # Projective general linear group

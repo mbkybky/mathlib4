@@ -5,8 +5,8 @@ Authors: Jz Pan
 -/
 module
 
-public import Mathlib.FieldTheory.SeparableDegree
 public import Mathlib.FieldTheory.IsSepClosed
+public import Mathlib.FieldTheory.SeparableDegree
 public import Mathlib.RingTheory.AlgebraicIndependent.AlgebraicClosure
 
 /-!

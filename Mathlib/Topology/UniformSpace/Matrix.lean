@@ -6,8 +6,8 @@ Authors: Eric Wieser, Heather Macbeth
 module
 
 public import Mathlib.LinearAlgebra.Matrix.Defs
-public import Mathlib.Topology.UniformSpace.Pi
 public import Mathlib.Topology.Algebra.IsUniformGroup.Constructions
+public import Mathlib.Topology.UniformSpace.Pi
 
 /-!
 # Uniform space structure on matrices

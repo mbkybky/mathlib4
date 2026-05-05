@@ -5,8 +5,8 @@ Authors: Floris van Doorn, Leonardo de Moura, Jeremy Avigad, Mario Carneiro
 -/
 module
 
-public import Mathlib.Data.Nat.Basic
 public import Batteries.Data.Nat.Basic
+public import Mathlib.Data.Nat.Basic
 
 /-!
 # Properties of the natural number square root function.

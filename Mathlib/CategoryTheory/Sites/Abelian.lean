@@ -6,8 +6,8 @@ Authors: Adam Topaz, Jujian Zhang
 module
 
 public import Mathlib.CategoryTheory.Abelian.FunctorCategory
-public import Mathlib.CategoryTheory.Preadditive.AdditiveFunctor
 public import Mathlib.CategoryTheory.Abelian.Transfer
+public import Mathlib.CategoryTheory.Preadditive.AdditiveFunctor
 public import Mathlib.CategoryTheory.Sites.Limits
 
 /-!

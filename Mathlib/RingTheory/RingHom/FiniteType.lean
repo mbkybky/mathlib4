@@ -5,8 +5,8 @@ Authors: Andrew Yang
 -/
 module
 
-public import Mathlib.RingTheory.FiniteStability
 public import Mathlib.RingTheory.Finiteness.FiniteTypeLocal
+public import Mathlib.RingTheory.FiniteStability
 public import Mathlib.RingTheory.Localization.InvSubmonoid
 public import Mathlib.RingTheory.RingHom.Finite
 

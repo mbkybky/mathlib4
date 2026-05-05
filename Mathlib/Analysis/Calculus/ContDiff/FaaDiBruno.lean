@@ -5,10 +5,10 @@ Authors: Sébastien Gouëzel
 -/
 module
 
-public import Mathlib.Data.Finite.Card
 public import Mathlib.Analysis.Analytic.Within
-public import Mathlib.Analysis.Calculus.FDeriv.Analytic
 public import Mathlib.Analysis.Calculus.ContDiff.FTaylorSeries
+public import Mathlib.Analysis.Calculus.FDeriv.Analytic
+public import Mathlib.Data.Finite.Card
 
 /-!
 # Faa di Bruno formula

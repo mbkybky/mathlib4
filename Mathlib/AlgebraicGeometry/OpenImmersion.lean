@@ -5,9 +5,9 @@ Authors: Andrew Yang
 -/
 module
 
-public import Mathlib.Geometry.RingedSpace.OpenImmersion
 public import Mathlib.AlgebraicGeometry.Scheme
 public import Mathlib.CategoryTheory.MorphismProperty.Limits
+public import Mathlib.Geometry.RingedSpace.OpenImmersion
 
 /-!
 # Open immersions of schemes

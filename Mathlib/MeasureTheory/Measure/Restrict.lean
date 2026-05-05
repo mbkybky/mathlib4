@@ -5,9 +5,9 @@ Authors: Johannes Hölzl, Mario Carneiro
 -/
 module
 
+public import Mathlib.Data.Set.Card
 public import Mathlib.MeasureTheory.Measure.Comap
 public import Mathlib.MeasureTheory.Measure.QuasiMeasurePreserving
-public import Mathlib.Data.Set.Card
 
 /-!
 # Restricting a measure to a subset or a subtype

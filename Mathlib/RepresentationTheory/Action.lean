@@ -5,8 +5,8 @@ Authors: Yunzhou Xie
 -/
 module
 
-public import Mathlib.RepresentationTheory.Intertwining
 public import Mathlib.CategoryTheory.Action.Monoidal
+public import Mathlib.RepresentationTheory.Intertwining
 
 /-!
 

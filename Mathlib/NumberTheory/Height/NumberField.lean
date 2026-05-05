@@ -5,8 +5,8 @@ Authors: Michael Stoll, Ralf Stephan
 -/
 module
 
-public import Mathlib.NumberTheory.NumberField.ProductFormula
 public import Mathlib.NumberTheory.Height.Basic
+public import Mathlib.NumberTheory.NumberField.ProductFormula
 
 import Mathlib.NumberTheory.Height.MvPolynomial
 import Mathlib.NumberTheory.NumberField.InfinitePlace.TotallyRealComplex

@@ -5,8 +5,8 @@ Authors: Oliver Nash, Yury Kudryashov
 -/
 module
 
-public import Mathlib.Topology.CompactOpen
 public import Mathlib.Topology.Compactness.CompactlyCoherentSpace
+public import Mathlib.Topology.CompactOpen
 public import Mathlib.Topology.Maps.Proper.Basic
 public import Mathlib.Topology.UniformSpace.Compact
 public import Mathlib.Topology.UniformSpace.UniformConvergenceTopology

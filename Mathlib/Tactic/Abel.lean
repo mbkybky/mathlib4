@@ -5,9 +5,9 @@ Authors: Mario Carneiro, Kim Morrison
 -/
 module
 
-public import Mathlib.Util.AtomM.Recurse
 public import Mathlib.Tactic.NormNum.Basic
 public import Mathlib.Tactic.TryThis
+public import Mathlib.Util.AtomM.Recurse
 public meta import Mathlib.Util.AtomM.Recurse
 
 /-!

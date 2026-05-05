@@ -5,11 +5,11 @@ Authors: Michael Stoll
 -/
 module
 
-public import Mathlib.NumberTheory.Cyclotomic.PrimitiveRoots
-public import Mathlib.FieldTheory.Finite.Trace
 public import Mathlib.Algebra.Group.AddChar
-public import Mathlib.Data.ZMod.Units
 public import Mathlib.Analysis.Complex.Polynomial.Basic
+public import Mathlib.Data.ZMod.Units
+public import Mathlib.FieldTheory.Finite.Trace
+public import Mathlib.NumberTheory.Cyclotomic.PrimitiveRoots
 
 /-!
 # Additive characters of finite rings and fields

@@ -5,8 +5,8 @@ Authors: Thomas Browning
 -/
 module
 
-public import Mathlib.RingTheory.Invariant.Defs
 public import Mathlib.RingTheory.IntegralClosure.IntegralRestrict
+public import Mathlib.RingTheory.Invariant.Defs
 
 /-!
 # Invariant Extensions of Rings

@@ -5,8 +5,8 @@ Authors: Yaël Dillies
 -/
 module
 
-public import Mathlib.Probability.ProductMeasure
 public import Mathlib.Probability.HasLaw
+public import Mathlib.Probability.ProductMeasure
 
 /-!
 # Product of bernoulli distributions on a set

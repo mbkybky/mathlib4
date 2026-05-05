@@ -5,10 +5,10 @@ Authors: Joël Riou
 -/
 module
 
-public import Mathlib.CategoryTheory.Abelian.SerreClass.MorphismProperty
-public import Mathlib.CategoryTheory.Localization.CalculusOfFractions.Preadditive
 public import Mathlib.Algebra.Homology.ShortComplex.ExactFunctor
+public import Mathlib.CategoryTheory.Abelian.SerreClass.MorphismProperty
 public import Mathlib.CategoryTheory.Limits.ExactFunctor
+public import Mathlib.CategoryTheory.Localization.CalculusOfFractions.Preadditive
 
 /-!
 # Localization with respect to a Serre class

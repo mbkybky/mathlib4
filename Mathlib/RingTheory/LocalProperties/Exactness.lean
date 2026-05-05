@@ -6,11 +6,11 @@ Authors: Sihan Su, Yongle Hu, Yi Song
 module
 
 public import Mathlib.Algebra.Exact
-public import Mathlib.RingTheory.LocalProperties.Submodule
-public import Mathlib.RingTheory.Localization.Algebra
-public import Mathlib.RingTheory.Localization.Away.Basic
 public import Mathlib.Algebra.Module.LocalizedModule.AtPrime
 public import Mathlib.Algebra.Module.LocalizedModule.Away
+public import Mathlib.RingTheory.Localization.Algebra
+public import Mathlib.RingTheory.Localization.Away.Basic
+public import Mathlib.RingTheory.LocalProperties.Submodule
 
 /-!
 # Local properties about linear maps

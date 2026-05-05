@@ -6,10 +6,10 @@ Authors: Chris Birkbeck
 module
 
 public import Mathlib.Algebra.Order.Floor.Semifield
-public import Mathlib.NumberTheory.ModularForms.CuspFormSubmodule
-public import Mathlib.NumberTheory.ModularForms.Discriminant
 public import Mathlib.Data.Rat.Star
 public import Mathlib.LinearAlgebra.Dimension.Localization
+public import Mathlib.NumberTheory.ModularForms.CuspFormSubmodule
+public import Mathlib.NumberTheory.ModularForms.Discriminant
 
 /-!
 # Dimension formula for level 1 modular forms

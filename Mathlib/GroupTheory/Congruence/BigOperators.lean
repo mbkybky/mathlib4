@@ -5,10 +5,10 @@ Authors: Amelia Livingston
 -/
 module
 
-public import Mathlib.Algebra.BigOperators.Group.Multiset.Basic
-public import Mathlib.Algebra.BigOperators.Group.List.Lemmas
-public import Mathlib.GroupTheory.Congruence.Defs
 public import Mathlib.Algebra.BigOperators.Group.Finset.Defs
+public import Mathlib.Algebra.BigOperators.Group.List.Lemmas
+public import Mathlib.Algebra.BigOperators.Group.Multiset.Basic
+public import Mathlib.GroupTheory.Congruence.Defs
 
 /-!
 # Interactions between `∑, ∏` and `(Add)Con`

@@ -5,8 +5,8 @@ Authors: Joël Riou
 -/
 module
 
-public import Mathlib.Topology.Sets.Opens
 public import Mathlib.CategoryTheory.Comma.Over.Basic
+public import Mathlib.Topology.Sets.Opens
 
 /-!
 # Opens and Over categories
